@@ -25,8 +25,7 @@ import os
 
 
 
-cfg = Config.fromfile('/home/sbhandari/seg/mmdetection/configs/convnext/mask-rcnn_convnext-t-p4-w7_fpn_amp-ms-crop-3x_coco copy.py')
-# cfg = Config.fromfile('/home/sbhandari/seg/mmdetection/configs/vit/vitdet_base.py')
+cfg = Config.fromfile('projects/ConvNeXt-V2/configs/mask-rcnn_convnext-v2-b_fpn_lsj-3x-fcmae_coco.py')
 
 
 # # Modify dataset classes and color
@@ -90,7 +89,7 @@ cfg.default_hooks.logger.interval = 250
 
 #if manually downloaded the model use this
 
-cfg.load_from = 'model.pth'
+cfg.load_from = 'https://download.openmmlab.com/mmdetection/v3.0/convnextv2/mask-rcnn_convnext-v2-b_fpn_lsj-3x-fcmae_coco/mask-rcnn_convnext-v2-b_fpn_lsj-3x-fcmae_coco_20230113_110947-757ee2dd.pth'
 
 
 # build the runner from config
