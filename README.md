@@ -1,5 +1,5 @@
 # Arcade-stenosis-task
-This repo is for the Runner-up solution for stenosis task for [ARCADE challenge](https://arcade.grand-challenge.org/evaluation/final-phase-stenosis-detection-algorithm-submission/leaderboard/) 
+This repo is the solution for stenosis detection task for [ARCADE challenge](https://arcade.grand-challenge.org/evaluation/final-phase-stenosis-detection-algorithm-submission/leaderboard/) achieving a f1 score of 0.5353 on test dataset.
 
 
 ## Description
