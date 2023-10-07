@@ -14,6 +14,7 @@ This repo is for the Runner-up solution for stenosis task for  on [ARCADE challe
 ```shell
 git clone https://github.com/sanjaybhandarii/Arcade-stenosis-task
 ```
+
 2.Then install torch and torchvision as:
 
     pip install torch torchvision
