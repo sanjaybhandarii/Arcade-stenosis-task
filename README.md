@@ -16,9 +16,9 @@ git clone https://github.com/sanjaybhandarii/Arcade-stenosis-task
 ```
 
 2. Then install torch and torchvision as:
-
-    pip install torch torchvision
-
+```shell
+pip install torch torchvision
+```
 3. Install MMEngine and MMCV using MIM.
 
 ```shell
