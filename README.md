@@ -1,5 +1,5 @@
 # Arcade-stenosis-task
-This repo is for the Runner-up solution for stenosis task for  on [ARCADE challenge](https://arcade.grand-challenge.org/) 
+This repo is for the Runner-up solution for stenosis task for  on [ARCADE challenge](https://arcade.grand-challenge.org) 
 
 
 ## Description
